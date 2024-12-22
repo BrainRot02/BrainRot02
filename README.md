@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrainRot02
+- 👋 Hi, I’m @BrainRot02 grey hat
 - 👀 I’m interested in cyber security hacking coding
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on taking down e websites
